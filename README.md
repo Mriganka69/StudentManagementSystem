@@ -8,7 +8,7 @@ The Student Management System is a web application built using ASP.NET and C# to
 - **Student Dashboard:** Overview of courses, grades, and attendance.
 - **Dashboard:** New users details.
 
-## Features to be added 
+## Features to be added soon
 - **Course Management:** Add, edit, and delete courses with relevant details.
 - **Teacher Dashboard:** Manage courses, grades, and attendance for students.
 
