@@ -13,7 +13,7 @@ The Student Management System is a web application built using ASP.NET and C# to
 - **Teacher Dashboard:** Manage courses, grades, and attendance for students.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, Bootstrap
+- **Frontend:** Bootstrap
 - **Backend:** ASP.NET MVC
 - **Programming Language:** C#
 - **Database:** SQL Server
@@ -26,3 +26,14 @@ The Student Management System is a web application built using ASP.NET and C# to
 2. **Clone the repository:**
    ```bash
    git clone https://github.com/Mriganka69/StudentManagementSystem.git
+
+## Usage
+- **Login:**
+  - Use the provided credentials (admin/teacher/student) to access respective dashboards.
+- **Dashboard:**
+  - Navigate through the tabs to manage courses, grades, attendance, and other functionalities.
+- **Add/Modify Data:**
+  - Use forms and tables to add or modify student records, course details, grades, etc.
+- **Logout:**
+  - Use the logout button to securely exit the application.
+
