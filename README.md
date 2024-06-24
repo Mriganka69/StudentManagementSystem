@@ -41,4 +41,5 @@ The Student Management System is a web application built using ASP.NET and C# to
 - [Mriganka Shekhar Nath](https://github.com/Mriganka69)
 - [Murchana Bharali](https://github.com/Murchana18)
 
-
+## Acknowledgement
+Made it as a Internship project(1) for POWERGRID SHILLONG
