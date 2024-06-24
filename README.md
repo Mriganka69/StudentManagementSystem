@@ -25,4 +25,4 @@ The Student Management System is a web application built using ASP.NET and C# to
 
 2. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Mriganka69/StudentManagementSystem.git
